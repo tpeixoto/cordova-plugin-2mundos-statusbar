@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-2mundos-statusbar",
-  "version": "2.2.3-test.0",
+  "version": "2.2.3-2m.0.0",
   "description": "Cordova StatusBar Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
